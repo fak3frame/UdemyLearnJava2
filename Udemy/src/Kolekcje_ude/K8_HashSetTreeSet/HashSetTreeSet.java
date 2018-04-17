@@ -37,7 +37,7 @@ public class HashSetTreeSet {
 
         try {
             Scanner reader = new Scanner(new BufferedReader(new FileReader("mojPlik.txt")));
-            while(reader.hasNext()){
+            while(reader.hasNext()){ //dopoki iterator ma kolejny wyraz
                 mili = System.currentTimeMillis();
 
                 set.add(reader.next());//po dodaniu 1 wyrazu token zostaje przesuniety o 1 wyraz
@@ -45,7 +45,7 @@ public class HashSetTreeSet {
                 totalMili+=(System.currentTimeMillis() - mili);
             }
 
-            reader.close();
+            reader.close(); //musze zamknac po czytaniu
         }
         catch (Exception ex){
             ex.printStackTrace();

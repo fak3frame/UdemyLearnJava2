@@ -10,7 +10,6 @@ class Element{
         this.napis = napis;
     }
 
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -31,6 +30,7 @@ public class HashCode {
     public static void main(String[] args) {
         Element a = new Element(5, "costam");
         Element b = new Element(5, "costamx");
+        Element c = new Element(5, "costam");
 
         System.out.println("-----1-------");
         System.out.println(a == b); // wypisze false, sprzwdza adresy
@@ -40,11 +40,15 @@ public class HashCode {
         System.out.println(a.equals(b)); //musze stworzyc deklaracje metody w klasie obiektow
 
         System.out.println("-----3-------");
+        System.out.println(a.equals(c));
+
+        System.out.println("-----4-------");
         //hashcode ma unikalna wartosc
         //np a.hashCode() =/= b.hashCode() i nalezy to zmienic w meodzie klasy obiektow
         //po stworzeniu metody sa juz rowne
         System.out.println(a.hashCode());
         System.out.println(b.hashCode());
+        System.out.println(c.hashCode());
 
 
 

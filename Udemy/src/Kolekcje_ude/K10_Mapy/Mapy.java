@@ -10,13 +10,6 @@ import java.util.TreeMap;
 /*
 klucz - wartosc
 klucz jest niepowtarzalny
-klucz
-
-
-
-
-
-
  */
 public class Mapy {
     public static void main(String[] args) {

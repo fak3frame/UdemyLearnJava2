@@ -38,8 +38,15 @@ public class ArrayListLinkedList {
         listaPolaczona.nastepna.nastepna.wartosc = 30;
         //kolejny obiekt polaczony jest z poprzenim
 
+        //listaPolaczona.nastepna.nastepna.nastepna.nastepna.nastepna.wartosc = 90;
+        //blad - nie ma polaczenia
+
+
+
+
         System.out.println(listaPolaczona.wartosc);
         System.out.println(listaPolaczona.nastepna.wartosc);
         System.out.println(listaPolaczona.nastepna.nastepna.wartosc);
+        //System.out.println(listaPolaczona.nastepna.nastepna.nastepna.nastepna.nastepna.nastepna.wartosc);
     }
 }

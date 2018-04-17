@@ -28,15 +28,18 @@ public class LinkedListOpracje {
         LinkedListOpracje.wypiszElementyListy(listaPowiazana);
 
         System.out.println("------4------");
-        ListIterator<String> iter2 = listaPowiazana.listIterator((listaPowiazana.size()));//iterator bedzie na koncu
+        ListIterator<String> iter2 = listaPowiazana.listIterator(listaPowiazana.size());
+        //listaPowiazana.size() - iterator bedzie na koncu
         //dzieki ListIterator mam nie tylko opcje next/remove ale i add oraz set
         while (iter2.hasPrevious()) {
             System.out.println(iter2.previous()); //wyswietlenie elem. od konca
         }
+
         System.out.println("------5------");
         Iterator<String> iter = listaPowiazana.iterator();
-        iter.next();
-        iter.remove(); //usunie POPRZEDNIKA !
+        //iterator znajduje sie na poczatku
+        iter.next(); //skok pomiedzy 0 i 1 element
+        iter.remove(); //usunie POPRZEDNIKA ! - 0 elem
         LinkedListOpracje.wypiszElementyListy(listaPowiazana);
 
     }
@@ -45,8 +48,11 @@ public class LinkedListOpracje {
         //wykorzystam iterator - urzadzneie ktore bedzie skakac pomiedzy elementami
         Iterator iteratorListy = lista.iterator(); //zapisuje do mojej zmiennej wartosc iteratora
         //lista.iterator() ta metoda zwroci nam iterator (standardowo jest to obiekt)
+
         //moge dac Iterator<String> iteratorListy wiec iterator bedzie stringiem
+
         //iterator na poczatku najduje sie przed 0 elementem
+
         while(iteratorListy.hasNext()) //zabezpiecznie przed koncem listy + wypisze kazdy element
             System.out.println(iteratorListy.next()); //zwroci najpierw 0 element
             //po wywolaniu metody .next() na iteratorze przeskoczy do kolejnej pozycji
