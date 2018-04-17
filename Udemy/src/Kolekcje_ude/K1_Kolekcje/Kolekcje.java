@@ -16,7 +16,8 @@ public class    Kolekcje {
         FF12    FF13    FF14
         get(0)  get(1)  get(2)
         */
-        ArrayList mojaLista = new ArrayList();
+        ArrayList mojaLista = new ArrayList(); //tworze liste bez okreslenia typu
+        // przez co moge dodac wszystko
         mojaLista.add("soc");
         mojaLista.add("soc2");
         mojaLista.add(2);
@@ -24,7 +25,7 @@ public class    Kolekcje {
         mojaLista.add(0,15); //przesunie elementy
         mojaLista.add(new Integer(10));
         System.out.println("------1--------");
-        System.out.println(mojaLista);
+        System.out.println(mojaLista); //wypisze elem. w []
 
         System.out.println("------2--------");
         System.out.println(mojaLista.get(0));
@@ -36,23 +37,26 @@ public class    Kolekcje {
 
 
         ArrayList <String> mojaListaString = new ArrayList<>(3);
+        //okrslam wstepne pojemnosc 3, jesli dodam 4 element, lista zostanie przeprojektowana
+        // na nowo - opracja ta wymaga czasu
 
         System.out.println("------4--------");
-        System.out.println(mojaListaString.size()); //metoda pokaze 0 (ilosc wypelnionych elem.)
+        System.out.println(mojaListaString.size()); //metoda pokazuje ilosc wypelnionych elem
+        //aktulnie 0
 
         //mojaListaString.add(2);//blad - zly typ
         mojaListaString.add("costam");
         //mojaListaString.add(new Integer(20)); //blad - zly typ
         mojaListaString.add("napis1");
         mojaListaString.add("napis2");
-        mojaListaString.add("napis2");
+        mojaListaString.add(new String("napis3"));
 
         System.out.println("------5--------");
         System.out.println(mojaListaString.size());
 
         System.out.println("------6--------");
+        int i = 0;
         for(String x : mojaListaString){
-            int i = 0;
             System.out.println(i + " : " + x);
             i++;
         }
