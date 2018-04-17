@@ -176,7 +176,7 @@ public class Start {
 
 
 
-        System.out.println("ZADANIE 11"); //interfejsy, sortownie(klasa arrays)
+        System.out.println("ZADANIE K11_LinkedHashMapLinkedHashSet"); //interfejsy, sortownie(klasa arrays)
         //interfejs sie implementuje - jest to klasa
         //metody - publiczne abstrakcyjne
         //wlasciwosci - publiczne finalne i statyczne

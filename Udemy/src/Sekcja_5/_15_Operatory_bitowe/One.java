@@ -12,7 +12,7 @@ public class One {
             2^3 2^2 2^1 2^0
 
             0 1 0 1 1
-            0 8 0 2 1 = 11
+            0 8 0 2 1 = K11_LinkedHashMapLinkedHashSet
 
             0 - flase 1 - ture
 
@@ -42,7 +42,7 @@ public class One {
         /* suma bitowa
             dziala jak dodawania z alternatywa
 
-            1 0 1 1 / 11
+            1 0 1 1 / K11_LinkedHashMapLinkedHashSet
             0 1 0 0 / 4
             --------
             1 1 1 1 / 15
