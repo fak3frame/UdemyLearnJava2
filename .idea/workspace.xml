@@ -98,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PorownywanieElemTreeSet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PorownywanieElemTreeSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+            <state relative-caret-position="442">
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding>
                 <element signature="e#175#176#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
@@ -113,6 +113,18 @@
                 <element signature="e#750#751#0" expanded="true" />
                 <element signature="e#804#805#0" expanded="true" />
                 <element signature="e#1148#1158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mapy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,7 +208,6 @@
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java" />
@@ -206,6 +217,7 @@
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java" />
       </list>
     </option>
   </component>
@@ -429,20 +441,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PorownywanieElemTreeSet">
+  <component name="RunManager" selected="Application.Mapy">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ArrayListLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K5_ArrayListLinkedList.ArrayListLinkedList" />
-      <module name="Udemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="HashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K7_HashCode.HashCode" />
@@ -473,6 +474,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Kolekcje_ude.K6_LinkedListOpracje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Mapy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K10_Mapy.Mapy" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.K10_Mapy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -543,19 +555,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListLinkedList" />
       <item itemvalue="Application.LinkedListOpracje" />
       <item itemvalue="Application.HashCode" />
       <item itemvalue="Application.HashSetTreeSet" />
       <item itemvalue="Application.PorownywanieElemTreeSet" />
+      <item itemvalue="Application.Mapy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mapy" />
         <item itemvalue="Application.PorownywanieElemTreeSet" />
         <item itemvalue="Application.HashSetTreeSet" />
         <item itemvalue="Application.HashCode" />
         <item itemvalue="Application.LinkedListOpracje" />
-        <item itemvalue="Application.ArrayListLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -692,16 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -801,8 +803,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        <state relative-caret-position="442">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
@@ -813,6 +815,16 @@
             <element signature="e#750#751#0" expanded="true" />
             <element signature="e#804#805#0" expanded="true" />
             <element signature="e#1148#1158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

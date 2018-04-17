@@ -57,6 +57,8 @@ public class Mapy {
 
         System.out.println("------3----------");
         for(Map.Entry<Integer, Pracownik> wpis : mapa2.entrySet()){
+            //Wykorzystje metode Entry z klasy Map aby pobrac wartosci <K,V>
+            //wykorzystje metode entrySet() na mapa2
             System.out.println("ID pracownika: "+wpis.getKey());
             System.out.println("imie pracownika: "+wpis.getValue().getImie());
         }

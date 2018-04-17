@@ -39,7 +39,7 @@ class Element3 implements Comparable{
 public class PorownywanieElemTreeSet {
     public static void main(String[] args) {
 
-        //Tworze treeSet ktory automatycznie sortuje elementy na podstawie typu
+        //Tworze treeSet (zbior) ktory automatycznie sortuje elementy na podstawie typu
         // klasy. w tej klasie uzywa deklaracji metody compareTo do sortownia
         // (klasa musi rozszerzac interface Comprarable)
 
