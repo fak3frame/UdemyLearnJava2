@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Udemy/Udemy.iml" filepath="$PROJECT_DIR$/Udemy/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one/one.iml" filepath="$PROJECT_DIR$/one/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp1/temp1.iml" filepath="$PROJECT_DIR$/temp1/temp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp2/temp2.iml" filepath="$PROJECT_DIR$/temp2/temp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp3/temp3.iml" filepath="$PROJECT_DIR$/temp3/temp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+Java kompiluje programy do kodu uniwersalnego (byte code) dla każdego systemu.
+Ten kod jest uruchamiany w czasie rzeczywistym przez JVM i przetwarzany do kodu 01 przez System.
+JDK zawiera zestaw narzędzi potrzebnych do kompilacji programu i uruchominia go.
+IDE - integrated develeopment environment - program do tworznia aplikacji
+
+skróty:
+cmd+d - duplikacja linii
+cmd+1 - przjescie do drzewa projektu
+cmd+emter - nowa linia poniżej
+ctrl+emter - stworzenie(konstrukor etc.)

@@ -1,0 +1,19 @@
+int b - zarezerwuj w pamieci ram zmienna b o rozmiarze int
+
+C++ kompiluje do kodu 010101 ale widocznego tylko dla konkretnego systemu zawierajacego konkretne bibilioteki
+Java kompiluje programy do kodu uniwersalnego/posreniego widocznego dla JVM - java virtual machine.
+Ten kod jest uruchamiany w czasie rzeczywistym przez JVM i przetwarzany do kodu 01 przez System.
+JRE - java runtime environment - srodowisko do opalania JAVY, ma w sobie JVM i inne biblioteki,
+moza to zainstalowac na wielu systemach
+JDK - java development kit (w tym jest JRE)
+IDE - integrated develeopment environment - program do tworznia aplikacji korzystajacy z JDK
+
+skróty:
+cmd+d - duplikacja linii
+cmd+1 - przjescie do drzewa projektu
+cmd+emter - nowa linia poniżej
+ctrl+emter - stworzenie(konstrukor etc.)
+shift + tab - usun wciacie na poczatku
+
+
+

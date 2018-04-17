@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48276222-c775-4521-85cf-c4bfb7d3cc30" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IdeaProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1_Kolekcje/Kolekcje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Udemy/src/Sekcja_5</dir>
+      <dir>$PROJECT_DIR$/Udemy/src/Sekcja_6/_16_Instrukcje_warunkowe</dir>
+      <dir>$PROJECT_DIR$/Udemy/src/Sekcja_6</dir>
+      <dir>$PROJECT_DIR$/Udemy/src/Sekcja_6/_18_Wyrażenia_warunkowe</dir>
+      <dir>$PROJECT_DIR$/Udemy/src/Sekcja_6/_19_Tablice_jednowymiarowe</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_39_Dziedziczenie/dziedziczenie2/Dziedziczenie.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Ojciec.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Dziecko.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Start.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Dziecko.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Ojciec.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_34_Enkapsulacja_settery_gettery_modyfikator_private/One.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_36_Przekazywanie_wartosci_referencyjnych_i_prymitywnych/One.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_40_Nadpisywanie_metod_oraz_polimorfizm/dziedziczenie/Dziedziczenie.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/ZombieTest.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/Zombie.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Rodzina/Dziecko.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Corka_T.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_T.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Ojciec_T.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Syn_T.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Rodzina/Ojciec.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Baza_potwory/Obrona.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Baza_potwory/Potwor.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/Szkielet.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/A.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/KontoBankoweTest.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/ZachowniePoWcisnieciu.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Baza_potwory/Adres.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Adres.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Pracownik.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/KontoBankowe.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Przycisk.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Butelka.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Start.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Firma.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/zlaKlasa.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/ZlaKlasa.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Adres.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Programista.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Sekretarka.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Praca.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/PracownikFabryka.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownik.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Oskar_1/Butelka.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Oskar_1/ButelkaFabryka.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_2.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/ArrayListLinkedList.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/MetodyGeneryczne.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Wildcards.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/LinkedListOpracje.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashCode.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashSetTreeSet.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="9" />
+    <option name="width" value="1283" />
+    <option name="height" value="1430" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Kolekcje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Fak3frame/IdeaProjects/Udemy/src/Kolekcje_ude/Kolekcje.java" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sekacja_9._41_Modyfikator_protected.dziedziczenie" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fak3frame\IdeaProjects\Udemy\src\Sekacja_9\_42_Abstrakcyjne_klasy_i_metody\dzidziczenie\potwory" />
+      <recent name="C:\Users\Fak3frame\IdeaProjects\Udemy\src\Sekacja_9\_42_Abstrakcyjne_klasy_i_metody\dziedziczenie\potwory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Kolekcje">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ArrayListLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.ArrayListLinkedList" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HashSetTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.HashSetTreeSet" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Kolekcje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.Kolekcje" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Mapy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.Mapy" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PorownywanieElemTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.PorownywanieElemTreeSet" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashSetTreeSet" />
+      <item itemvalue="Application.PorownywanieElemTreeSet" />
+      <item itemvalue="Application.Mapy" />
+      <item itemvalue="Application.ArrayListLinkedList" />
+      <item itemvalue="Application.Kolekcje" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kolekcje" />
+        <item itemvalue="Application.ArrayListLinkedList" />
+        <item itemvalue="Application.Mapy" />
+        <item itemvalue="Application.PorownywanieElemTreeSet" />
+        <item itemvalue="Application.HashSetTreeSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48276222-c775-4521-85cf-c4bfb7d3cc30" name="Default" comment="" />
+      <created>1513860865698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513860865698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="9" width="1283" height="1430" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287841" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32243347" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26539925" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.23756906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" sideWeight="0.1498195" side_tool="true" weight="0.26693228" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24940239" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32471484" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/2s.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Info" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/KontoBankoweTest.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/A.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_T.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Adres.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Ojciec_T.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Corka_T.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Syn_T.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Znajomi/Wujek.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Rodzina/Dziecko.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Baza_potwory/Obrona.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/Szkielet.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/Zombie.java" />
+    <entry file="file://$USER_HOME$/Desktop/SGdyUEHi.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/KontoBankowe.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Przycisk.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Rodzina/Ojciec.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Butelka.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/ZachowniePoWcisnieciu.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9615">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Baza_potwory/Potwor.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Start.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Pracownik.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Praca.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Sekretarka.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/ZlaKlasa.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Adres.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Programista.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Oskar_1/Butelka.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Oskar_1/ButelkaFabryka.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/PracownikFabryka.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownik.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="90" column="77" lean-forward="true" selection-start-line="90" selection-start-column="77" selection-end-line="90" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashCode.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashSetTreeSet.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/LinkedListOpracje.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/MetodyGeneryczne.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/TypyGeneryczne.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Wildcards.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/FOLDER/tst.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1/Kolekcje.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/ArrayListLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1_Kolekcje/Kolekcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
