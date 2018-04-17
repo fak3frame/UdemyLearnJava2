@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K6_LinkedListOpracje;
 
 import java.util.Iterator;
 import java.util.LinkedList;

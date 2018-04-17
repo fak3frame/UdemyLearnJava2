@@ -17,12 +17,87 @@
     <favorites_list name="IdeaProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1_Kolekcje/Kolekcje.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedHashMapLinkedHashSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K11_LinkedHashMapLinkedHashSet/LinkedHashMapLinkedHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypyGeneryczne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wildcards.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MetodyGeneryczne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListOpracje.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashSetTreeSet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,14 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_39_Dziedziczenie/dziedziczenie2/Dziedziczenie.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Ojciec.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Dziecko.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekcaj_TEST/Start.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Dziecko.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Ojciec.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_34_Enkapsulacja_settery_gettery_modyfikator_private/One.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_36_Przekazywanie_wartosci_referencyjnych_i_prymitywnych/One.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Sekacja_9/_40_Nadpisywanie_metod_oraz_polimorfizm/dziedziczenie/Dziedziczenie.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/ZombieTest.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Potwory/Zombie.java" />
@@ -109,6 +176,14 @@
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java" />
       </list>
     </option>
   </component>
@@ -124,6 +199,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,22 +224,147 @@
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Kolekcje" type="462c0819:PsiDirectoryNode" />
+              <item name="K1_Kolekcje" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="K2_TypyGeneryczne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K2_TypyGeneryczne" type="462c0819:PsiDirectoryNode" />
+              <item name="TypyGeneryczne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K3_Wildcards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K3_Wildcards" type="462c0819:PsiDirectoryNode" />
+              <item name="Wildcards.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K4_MetodyGeneryczne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K4_MetodyGeneryczne" type="462c0819:PsiDirectoryNode" />
+              <item name="MetodyGeneryczne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayListLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K6_LinkedListOpracje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K7_HashCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K7_HashCode" type="462c0819:PsiDirectoryNode" />
+              <item name="HashCode.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K8_HashSetTreeSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K8_HashSetTreeSet" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSetTreeSet.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K9_PorownywanieElemTreeSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K9_PorownywanieElemTreeSet" type="462c0819:PsiDirectoryNode" />
+              <item name="PorownywanieElemTreeSet.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K10_Mapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K10_Mapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K11_LinkedHashMapLinkedHashSet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,61 +394,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kolekcje">
+  <component name="RunManager" selected="Application.HashSetTreeSet">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="ArrayListLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.ArrayListLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K5_ArrayListLinkedList.ArrayListLinkedList" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="HashSetTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.HashSetTreeSet" />
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K8_HashSetTreeSet.HashSetTreeSet" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Kolekcje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.Kolekcje" />
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K1_Kolekcje.Kolekcje" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Mapy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.Mapy" />
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K10_Mapy.Mapy" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="PorownywanieElemTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.PorownywanieElemTreeSet" />
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K9_PorownywanieElemTreeSet.PorownywanieElemTreeSet" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,11 +516,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetTreeSet" />
         <item itemvalue="Application.Kolekcje" />
         <item itemvalue="Application.ArrayListLinkedList" />
         <item itemvalue="Application.Mapy" />
         <item itemvalue="Application.PorownywanieElemTreeSet" />
-        <item itemvalue="Application.HashSetTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -346,10 +548,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="92" y="9" width="1283" height="1430" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287841" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32243347" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -360,7 +562,8 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.23756906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.23756906" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32471484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -372,7 +575,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32471484" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32243347" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -384,8 +587,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/2s.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Info" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/KontoBankoweTest.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/A.java" />
@@ -447,21 +648,83 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashCode.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/HashSetTreeSet.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/LinkedListOpracje.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/MetodyGeneryczne.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/TypyGeneryczne.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Wildcards.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/FOLDER/tst.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1/Kolekcje.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/ArrayListLinkedList.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1_Kolekcje/Kolekcje.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K11_LinkedHashMapLinkedHashSet/LinkedHashMapLinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="48" lean-forward="true" selection-start-line="42" selection-start-column="48" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

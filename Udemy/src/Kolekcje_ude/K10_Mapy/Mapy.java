@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K10_Mapy;
 
 
 import org.w3c.dom.events.Event;

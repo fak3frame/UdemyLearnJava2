@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K1_Kolekcje;
 
 import java.util.ArrayList;
 import java.util.Collection;

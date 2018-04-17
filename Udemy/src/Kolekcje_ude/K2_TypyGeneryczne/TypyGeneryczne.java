@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K2_TypyGeneryczne;
 
 import java.util.ArrayList;
 

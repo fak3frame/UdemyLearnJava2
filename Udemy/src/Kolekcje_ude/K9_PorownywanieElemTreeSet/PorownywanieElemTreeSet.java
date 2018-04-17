@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K9_PorownywanieElemTreeSet;
 
 import java.util.*;
 

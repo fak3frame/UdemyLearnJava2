@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K8_HashSetTreeSet;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -14,7 +14,7 @@ class Element2{
     public boolean equals(Object obj) {
         if(obj == null) return false;
         if(this.getClass() != obj.getClass() || obj == null) return false;
-        return this.wartosc == ((Element)obj).wartosc;
+        return this.wartosc == ((Element2)obj).wartosc;
     }
 
     @Override

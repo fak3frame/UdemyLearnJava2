@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K3_Wildcards;
 
 import java.util.ArrayList;
 

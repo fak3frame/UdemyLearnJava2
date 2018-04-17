@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K7_HashCode;
 
 import java.util.Objects;
 

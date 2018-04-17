@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K4_MetodyGeneryczne;
 
 import java.util.ArrayList;
 import java.util.Collection;

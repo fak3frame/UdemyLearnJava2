@@ -1,4 +1,4 @@
-package Kolekcje_ude;
+package Kolekcje_ude.K5_ArrayListLinkedList;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
