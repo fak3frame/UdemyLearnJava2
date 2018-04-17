@@ -14,26 +14,42 @@ public class TypyGeneryczne {
 //            System.out.println((String)a.get(i));
 //        }
         ArrayList<String> a = new ArrayList();// nie istalilem typu wiec jest jako obiektowy
-        a.add(new String("lalala"));
+        a.add("lalala");
         a.add(new String("dedede"));
 
+        System.out.println("------1------");
         for(String string : a){
             System.out.println(string);
         }
 
-        Zwykla<String> nazwaZmiennej = new Zwykla();
+        System.out.println("------2------");
+        Zwykla<String,Integer> nazwaZmiennej = new Zwykla();
+        //tworze instancje klasy z wybranymi typami generycznym (String oraz Integer)
+        // musza byc 2 poniewaz tak deklaruje klasa
         nazwaZmiennej.nadajWartosc("cos");
+        nazwaZmiennej.nadajWartoscObu("cos",12);
         System.out.println(nazwaZmiennej.zwroc());
+
+        Zwykla inst = new Zwykla();
+        //nie musze deklarowac typu generecznyego tworząc instancje tej klasy
 
     }
 }
-class Zwykla <COKOLWIEK>{
+class Zwykla <COKOLWIEK,COKOLWIEK2>{
+    //tworze klase z typem generycznym
+    //moze on przyjac dowolna zmienna obiektowa
 
     COKOLWIEK nazwaZmienejTypuCokolwiek;
+    COKOLWIEK2 nazwaZmienejTypuCokolwiek2;
 
     public void nadajWartosc(COKOLWIEK wartosc){
         this.nazwaZmienejTypuCokolwiek = wartosc;
     }
+    public void nadajWartoscObu(COKOLWIEK wartosc, COKOLWIEK2 wartosc2){
+        nadajWartosc(wartosc);
+        this.nazwaZmienejTypuCokolwiek2 = wartosc2;
+    }
+
     public COKOLWIEK zwroc(){
         return this.nazwaZmienejTypuCokolwiek;
     }

@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="357">
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,6 +35,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#1127#1128#0" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
+                <element signature="e#1266#1267#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,26 +48,33 @@
       <file leaf-file-name="Wildcards.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="1088">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#1099#1107#0" expanded="true" />
+                <element signature="e#1243#1255#0" expanded="true" />
+                <element signature="e#2000#2010#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MetodyGeneryczne.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MetodyGeneryczne.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="221">
+              <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+                <element signature="e#1209#1210#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
+                <element signature="e#1338#1339#0" expanded="true" />
+                <element signature="e#1545#1553#0" expanded="true" />
+                <element signature="e#1863#1871#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,11 +121,20 @@
       <file leaf-file-name="Mapy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="-459">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedHashMapLinkedHashSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K11_LinkedHashMapLinkedHashSet/LinkedHashMapLinkedHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -186,9 +208,6 @@
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/PorownywanieElemTreeSet.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Mapy.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Kolekcje.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java" />
-        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java" />
@@ -196,6 +215,9 @@
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java" />
         <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java" />
+        <option value="$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java" />
       </list>
     </option>
   </component>
@@ -363,6 +385,14 @@
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K10_Mapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Mapy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
               <item name="K11_LinkedHashMapLinkedHashSet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -398,7 +428,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kolekcje">
+  <component name="RunManager" selected="Application.MetodyGeneryczne">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -435,24 +465,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Mapy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K10_Mapy.Mapy" />
+    <configuration name="MetodyGeneryczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K4_MetodyGeneryczne.MetodyGeneryczne" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K4_MetodyGeneryczne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PorownywanieElemTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K9_PorownywanieElemTreeSet.PorownywanieElemTreeSet" />
+    <configuration name="TypyGeneryczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kolekcje_ude.K2_TypyGeneryczne.TypyGeneryczne" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kolekcje_ude.K1_Kolekcje.*" />
+          <option name="PATTERN" value="Kolekcje_ude.K2_TypyGeneryczne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -513,18 +543,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.HashSetTreeSet" />
-      <item itemvalue="Application.PorownywanieElemTreeSet" />
-      <item itemvalue="Application.Mapy" />
       <item itemvalue="Application.ArrayListLinkedList" />
       <item itemvalue="Application.Kolekcje" />
+      <item itemvalue="Application.TypyGeneryczne" />
+      <item itemvalue="Application.MetodyGeneryczne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetodyGeneryczne" />
+        <item itemvalue="Application.TypyGeneryczne" />
         <item itemvalue="Application.Kolekcje" />
         <item itemvalue="Application.HashSetTreeSet" />
         <item itemvalue="Application.ArrayListLinkedList" />
-        <item itemvalue="Application.Mapy" />
-        <item itemvalue="Application.PorownywanieElemTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -655,34 +685,6 @@
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1/Kolekcje.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/1_Kolekcje/Kolekcje.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K11_LinkedHashMapLinkedHashSet/LinkedHashMapLinkedHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -721,9 +723,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K11_LinkedHashMapLinkedHashSet/LinkedHashMapLinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K10_Mapy/Mapy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="-459">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -731,12 +750,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#1099#1107#0" expanded="true" />
+            <element signature="e#1243#1255#0" expanded="true" />
+            <element signature="e#2000#2010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1338#1339#0" expanded="true" />
+            <element signature="e#1545#1553#0" expanded="true" />
+            <element signature="e#1863#1871#0" expanded="true" />
           </folding>
         </state>
       </provider>
