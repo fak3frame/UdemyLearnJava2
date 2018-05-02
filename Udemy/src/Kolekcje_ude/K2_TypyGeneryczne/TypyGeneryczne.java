@@ -28,8 +28,9 @@ public class TypyGeneryczne {
         //tworze instancje klasy z wybranymi typami generycznym (String oraz Integer)
         // musza byc 2 poniewaz tak deklaruje klasa
         nazwaZmiennej.nadajWartosc("cos");
-        nazwaZmiennej.nadajWartoscObu("cos",12);
-        System.out.println(nazwaZmiennej.zwroc());
+        nazwaZmiennej.nadajWartoscObu("cos2",12);
+        System.out.println(nazwaZmiennej.zwroc1());
+        System.out.println(nazwaZmiennej.zwroc2());
 
         Zwykla inst = new Zwykla();
         //nie musze deklarowac typu generecznyego tworząc instancje tej klasy
@@ -51,8 +52,11 @@ class Zwykla <COKOLWIEK,COKOLWIEK2>{
         this.nazwaZmienejTypuCokolwiek2 = wartosc2;
     }
 
-    public COKOLWIEK zwroc(){
+    public COKOLWIEK zwroc1(){
         return this.nazwaZmienejTypuCokolwiek;
+    }
+    public COKOLWIEK2 zwroc2(){
+        return this.nazwaZmienejTypuCokolwiek2;
     }
 
 
