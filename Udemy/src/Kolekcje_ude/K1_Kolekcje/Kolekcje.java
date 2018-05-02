@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
 
-public class    Kolekcje {
+public class Kolekcje {
     public static void main(String[] args) {
         //kolekcja jest to pojemnik do przechowywyania czegokolwiek
         Collection a;
