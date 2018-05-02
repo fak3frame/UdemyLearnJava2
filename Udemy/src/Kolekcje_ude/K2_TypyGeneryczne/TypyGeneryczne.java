@@ -6,16 +6,17 @@ public class TypyGeneryczne {
 
     public static void main(String[] args) {
         //uogolnianie typow
-//        ArrayList a = new ArrayList();// nie istalilem typu wiec jest jako obiektowy
+//        ArrayList a = new ArrayList();// nie ustalilem typu wiec jest jako obiektowy
 //        a.add(new String("lalala"));
 //        a.add(new Integer(3));
 //
 //        for(int i = 0; i < a.size(); i++){
 //            System.out.println((String)a.get(i));
 //        }
-        ArrayList<String> a = new ArrayList();// nie istalilem typu wiec jest jako obiektowy
+        ArrayList<String> a = new ArrayList();// ustalilem typ jako String
         a.add("lalala");
         a.add(new String("dedede"));
+        //a.add(2); //blad - zly typ
 
         System.out.println("------1------");
         for(String string : a){
