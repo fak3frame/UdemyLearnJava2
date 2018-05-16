@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+            <state relative-caret-position="919">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,16 +33,8 @@
       <file leaf-file-name="TypyGeneryczne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="510">
               <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-              <folding>
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1553#1554#0" expanded="true" />
-                <element signature="e#1765#1766#0" expanded="true" />
-                <element signature="e#1830#1831#0" expanded="true" />
-                <element signature="e#1852#1853#0" expanded="true" />
-                <element signature="e#1906#1907#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,13 +42,8 @@
       <file leaf-file-name="Wildcards.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="e#1177#1185#0" expanded="true" />
-                <element signature="e#1321#1333#0" expanded="true" />
-                <element signature="e#2254#2264#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -64,8 +51,8 @@
       <file leaf-file-name="MetodyGeneryczne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1538#1539#0" expanded="true" />
@@ -83,7 +70,7 @@
       <file leaf-file-name="HashSetTreeSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
+            <state relative-caret-position="68">
               <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -95,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PorownywanieElemTreeSet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PorownywanieElemTreeSet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-493">
+            <state relative-caret-position="17">
               <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="e#175#176#0" expanded="true" />
@@ -119,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -139,7 +126,7 @@
       <file leaf-file-name="HashCode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="272">
               <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
@@ -227,11 +214,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="92" />
-    <option name="y" value="9" />
     <option name="width" value="1285" />
-    <option name="height" value="920" />
+    <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -239,150 +225,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
               <item name="K1_Kolekcje" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
               <item name="K2_TypyGeneryczne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K2_TypyGeneryczne" type="462c0819:PsiDirectoryNode" />
-              <item name="TypyGeneryczne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K3_Wildcards" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K3_Wildcards" type="462c0819:PsiDirectoryNode" />
-              <item name="Wildcards.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K4_MetodyGeneryczne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K4_MetodyGeneryczne" type="462c0819:PsiDirectoryNode" />
-              <item name="MetodyGeneryczne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayListLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K6_LinkedListOpracje" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K7_HashCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K7_HashCode" type="462c0819:PsiDirectoryNode" />
-              <item name="HashCode.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K8_HashSetTreeSet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K8_HashSetTreeSet" type="462c0819:PsiDirectoryNode" />
-              <item name="HashSetTreeSet.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K9_PorownywanieElemTreeSet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="K9_PorownywanieElemTreeSet" type="462c0819:PsiDirectoryNode" />
-              <item name="PorownywanieElemTreeSet.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PorownywanieElemTreeSet">
+  <component name="RunManager" selected="Application.Kolekcje">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -537,11 +418,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kolekcje" />
         <item itemvalue="Application.PorownywanieElemTreeSet" />
         <item itemvalue="Application.MetodyGeneryczne" />
         <item itemvalue="Application.HashCode" />
         <item itemvalue="Application.TypyGeneryczne" />
-        <item itemvalue="Application.Kolekcje" />
       </list>
     </recent_temporary>
   </component>
@@ -568,29 +449,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
-    <editor active="true" />
+    <frame x="92" y="0" width="1285" height="1447" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287841" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3220974" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5354037" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500394" side_tool="true" weight="0.26539925" />
       <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960598" weight="0.26335403" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960598" visible="true" weight="0.26342073" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.21843252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.18991332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.1498195" side_tool="true" weight="0.26693228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" sideWeight="0.1498195" side_tool="true" weight="0.26693228" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24940239" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -682,52 +562,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="510">
           <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-          <folding>
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1553#1554#0" expanded="true" />
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1830#1831#0" expanded="true" />
-            <element signature="e#1852#1853#0" expanded="true" />
-            <element signature="e#1906#1907#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K3_Wildcards/Wildcards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="e#1177#1185#0" expanded="true" />
-            <element signature="e#1321#1333#0" expanded="true" />
-            <element signature="e#2254#2264#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1538#1539#0" expanded="true" />
@@ -743,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="272">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
@@ -760,7 +617,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
+        <state relative-caret-position="68">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -773,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-493">
+        <state relative-caret-position="17">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="e#175#176#0" expanded="true" />
@@ -785,6 +642,16 @@
             <element signature="e#750#751#0" expanded="true" />
             <element signature="e#804#805#0" expanded="true" />
             <element signature="e#1188#1198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="919">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
