@@ -6,17 +6,17 @@ public class TypyGeneryczne {
 
     public static void main(String[] args) {
         //uogolnianie typow
-//        ArrayList a = new ArrayList();// nie ustalilem typu wiec jest jako obiektowy
+//        ArrayList a = new ArrayList();// nie istalilem typu wiec jest jako obiektowy
 //        a.add(new String("lalala"));
 //        a.add(new Integer(3));
 //
 //        for(int i = 0; i < a.size(); i++){
 //            System.out.println((String)a.get(i));
 //        }
-        ArrayList<String> a = new ArrayList();// ustalilem typ jako String
+        ArrayList<String> a = new ArrayList();// ustalilem typ jako String, w dokimentacji za <E> - elements
+        // podstawielm String
         a.add("lalala");
         a.add(new String("dedede"));
-        //a.add(2); //blad - zly typ
 
         System.out.println("------1------");
         for(String string : a){
@@ -28,9 +28,8 @@ public class TypyGeneryczne {
         //tworze instancje klasy z wybranymi typami generycznym (String oraz Integer)
         // musza byc 2 poniewaz tak deklaruje klasa
         nazwaZmiennej.nadajWartosc("cos");
-        nazwaZmiennej.nadajWartoscObu("cos2",12);
-        System.out.println(nazwaZmiennej.zwroc1());
-        System.out.println(nazwaZmiennej.zwroc2());
+        nazwaZmiennej.nadajWartoscObu("cos",12);
+        System.out.println(nazwaZmiennej.zwroc());
 
         Zwykla inst = new Zwykla();
         //nie musze deklarowac typu generecznyego tworząc instancje tej klasy
@@ -38,7 +37,7 @@ public class TypyGeneryczne {
     }
 }
 class Zwykla <COKOLWIEK,COKOLWIEK2>{
-    //tworze klase z typem generycznym
+    //tworze klase z typem generycznym/uogolnionym
     //moze on przyjac dowolna zmienna obiektowa
 
     COKOLWIEK nazwaZmienejTypuCokolwiek;
@@ -52,11 +51,8 @@ class Zwykla <COKOLWIEK,COKOLWIEK2>{
         this.nazwaZmienejTypuCokolwiek2 = wartosc2;
     }
 
-    public COKOLWIEK zwroc1(){
+    public COKOLWIEK zwroc(){
         return this.nazwaZmienejTypuCokolwiek;
-    }
-    public COKOLWIEK2 zwroc2(){
-        return this.nazwaZmienejTypuCokolwiek2;
     }
 
 

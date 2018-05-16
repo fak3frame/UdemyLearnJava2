@@ -4,18 +4,35 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
 
-public class Kolekcje {
+public class    Kolekcje {
     public static void main(String[] args) {
-        //kolekcja jest to pojemnik do przechowywyania czegokolwiek
+        /*
+        Kolekcja - pojemnik do przechowywania czegokolwiek
+        Podzbiorami jej moze byc LISTA (np arraylist) lub ZBIÓR
+        Mozemy na nich wykonywac dzialania
+
+        Lista - jest ustalona kolejnosc kazdego elementu (kazdy ma swoj adres)
+        Jest w niej lement jeden po drugim (nie ma przerwy) - sa polaczone ze soba
+
+        Zbiór - nie jest ustalona kolejnosc, jesli element sie powtarza to jest usuwany
+
+        Aby polaczyc 2 zbiory uzywano funkcji (przyporzadkownia DOKŁADNIE JEDNEGO elementu ze zbioru 1 do jednego
+        lub wiecej elementow ze zbioru 2. Powstaje nowa "paczka zawierajaca obiekt z 1 i obiekty z drgiej kolekcji)
+        Takie polaczenie jest mapowniem KEY - VALUE
+        Jako Key mozna wykorzystac liste gdzie wazna jest koljnosc czyli 1,2,3,4..
+        Jako Value mozna uzyc zbioru np imiona "Kamil" "Przemek" itp.
+
+        Mapa - sluzy do przyporzadkowania 2 wartosci, mozemy polaczyc 2 wartosci np ze zbioru i listy.
+        Sklada sie ona z klucza i wartosci. Klucz nie moze sie powtórzyc (jesto to id) i moga nim byc np
+        elementy z jakiejs listy np liczby (1,2,4,5).
+        Wartoscia moga byc elementy nieuporzadkowane ze zbioru np imiona ktorym przyporzdkujemy elemty
+        klcza czyli w tym przypadku listy.
+
+        */
+
         Collection a;
         ArrayList b;
-        /*
-        Arraylist rozszerza kolekcje
-        wszystkie elementy sa ustalone w kolejnosci, jest jeden po drugim
-        sa polaczone wiezia, kazdy element ma adres
-        FF12    FF13    FF14
-        get(0)  get(1)  get(2)
-        */
+
         ArrayList mojaLista = new ArrayList(); //tworze liste bez okreslenia typu
         // przez co moge dodac wszystko
         mojaLista.add("soc");
