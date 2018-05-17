@@ -12,12 +12,12 @@ public class    Kolekcje {
         Mozemy na nich wykonywac dzialania
 
         Lista - jest ustalona kolejnosc kazdego elementu (kazdy ma swoj adres)
-        Jest w niej lement jeden po drugim (nie ma przerwy) - sa polaczone ze soba
+        Sa w niej elementy jeden po drugim (nie ma przerwy) - sa polaczone ze soba
 
         Zbiór - nie jest ustalona kolejnosc, jesli element sie powtarza to jest usuwany
 
         Aby polaczyc 2 zbiory uzywano funkcji (przyporzadkownia DOKŁADNIE JEDNEGO elementu ze zbioru 1 do jednego
-        lub wiecej elementow ze zbioru 2. Powstaje nowa "paczka zawierajaca obiekt z 1 i obiekty z drgiej kolekcji)
+        lub wiecej elementow ze zbioru 2. Powstaje nowa "paczka zawierajaca obiekt z 1 zbioru i obiekt/y z 2 kolekcji)
         Takie polaczenie jest mapowniem KEY - VALUE
         Jako Key mozna wykorzystac liste gdzie wazna jest koljnosc czyli 1,2,3,4..
         Jako Value mozna uzyc zbioru np imiona "Kamil" "Przemek" itp.
