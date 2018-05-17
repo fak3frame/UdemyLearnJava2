@@ -12,6 +12,7 @@ public class TypyGeneryczne {
 //
 //        for(int i = 0; i < a.size(); i++){
 //            System.out.println((String)a.get(i));
+                //bedzie blad poniewaz dodalem element Integer
 //        }
         ArrayList<String> a = new ArrayList();// ustalilem typ jako String, w dokimentacji za <E> - elements
         // podstawielm String

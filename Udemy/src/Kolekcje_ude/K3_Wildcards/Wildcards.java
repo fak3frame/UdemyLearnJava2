@@ -34,9 +34,9 @@ public class Wildcards {
         //wildcards - znak wielozznacznosci
         //bounded wildcards - ograniczony znak wiloznacznosci
 
+        ArrayList<String> listaStringow = new ArrayList<String>();
         //Podkladam za <E> String we wszystkich dekklaracjach/definicjach metod
         //czyli jest to lista Stringow
-        ArrayList<String> listaStringow = new ArrayList<String>();
         //moge tez wpisac List<String> listaStringow = new List<String>();
 
 
@@ -47,7 +47,7 @@ public class Wildcards {
         listaClass.add(new SuperClass());
         listaClass.add(new SubClass());//moge dodac takze podklase poniewaz dziedziczy
 
-        SuperClass.tester(listaStringow); //zadziala bo przyjmuje liste dowolnego typu
+        SuperClass.tester(listaStringow); //zadziala bo przyjmuje liste dowolnego typu klasy Object
         //SuperClass.tester2(listaStringow);//nie zadziala bo metoda przyjmuje tablice z obiektami
         // z rodziny klasy Object oraz nie specyficznej jak "Superclass"
 
