@@ -6,7 +6,7 @@ public class TypyGeneryczne {
 
     public static void main(String[] args) {
         //uogolnianie typow
-//        ArrayList a = new ArrayList();// nie istalilem typu wiec jest jako obiektowy
+//        ArrayList a = new ArrayList();// nie ustalilem typu wiec jest jako obiektowy
 //        a.add(new String("lalala"));
 //        a.add(new Integer(3));
 //
