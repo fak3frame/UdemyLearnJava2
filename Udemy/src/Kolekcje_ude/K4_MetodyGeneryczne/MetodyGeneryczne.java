@@ -36,20 +36,33 @@ class Edytor{
     }
 }
 
-class Figura <K>{
-    K zmienna;
+class Figura <Figura>{
+    Figura zmiennaFigura;
+    public void ustawFigure(Figura zmiennaFigura){
+        this.zmiennaFigura=zmiennaFigura;
+    }
     public String pobierzNazwe(){
         return nazwa;
     }
     String nazwa = "";
 }
 
-class Kolo extends Figura{
+class Kolo<Kolo> extends Figura{
+    Kolo zmiennaKolo;
+    public void ustawKolo(Kolo zmiennaKolo){
+        this.zmiennaKolo=zmiennaKolo;
+    }
+
     public Kolo(){
         super.nazwa = "Kolo"; //przypisuje wartosc zmiennej nadkasy
     }
 }
-class Kwadrat extends Figura{
+class Kwadrat<Kwadrat> extends Figura{
+    Kwadrat zmiennaKwadrat;
+    public void ustawKwadrat(Kwadrat zmiennaKwadrat){
+        this.zmiennaKwadrat=zmiennaKwadrat;
+    }
+
     public Kwadrat(){
         super.nazwa = "Kwadrat";
     }
@@ -57,16 +70,20 @@ class Kwadrat extends Figura{
 
 public class MetodyGeneryczne {
     public static void main(String[] args) {
-        Figura figura1 = new Kolo();
-        Figura figura2 = new Kwadrat();
+        Figura<Integer> figura1 = new Kolo<String>();
+        Figura<Integer> figura2 = new Kwadrat<String>();
 
         List<Figura> listaFigur = new ArrayList<Figura>();
+
         listaFigur.add(figura1);
+        figura1.ustawFigure(1);
+        ((Kolo) figura1).ustawKolo(12);//?? nie widzi deklaracji new Kolo<String>();
+
         listaFigur.add(figura2);
 
-        System.out.println("-----1------");
-        Edytor.wypisz(listaFigur);
         System.out.println("-----2------");
+        Edytor.wypisz(listaFigur);
+        System.out.println("-----3------");
         Edytor.wypisz2(listaFigur);
 
 
