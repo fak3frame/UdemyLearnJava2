@@ -16,7 +16,7 @@ public class    Kolekcje {
 
         Zbiór - nie jest ustalona kolejnosc, jesli element sie powtarza to jest usuwany
 
-        Aby polaczyc 2 zbiory uzywano funkcji (przyporzadkownia DOKŁADNIE JEDNEGO elementu ze zbioru 1 do jednego
+        Aby polaczyc 2 kolekcje uzwano funkcji (przyporzadkownia DOKŁADNIE JEDNEGO elementu ze zbioru 1 do jednego
         lub wiecej elementow ze zbioru 2. Powstaje nowa "paczka zawierajaca obiekt z 1 zbioru i obiekt/y z 2 kolekcji)
         Takie polaczenie jest mapowniem KEY - VALUE
         Jako Key mozna wykorzystac liste gdzie wazna jest koljnosc czyli 1,2,3,4..
@@ -81,7 +81,7 @@ public class    Kolekcje {
 
         /*
         ----------------------
-        Zbiór jest grupa w ktorej nie jest ustalona kolejnosc
+        Zbiór jest grupa w ktorej NIE jest ustalona kolejnosc
         A = {1,1,1,1}
         B = {1}
         A = B nie interesuje mnie kolejnosc i czy sie powtarza
