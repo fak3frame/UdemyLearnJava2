@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+      <file leaf-file-name="Fabryka.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Projekt_1/Fabryka.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="17">
+              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,8 +33,8 @@
       <file leaf-file-name="TypyGeneryczne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#1618#1619#0" expanded="true" />
                 <element signature="e#1674#1675#0" expanded="true" />
@@ -54,98 +54,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MetodyGeneryczne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+      <file leaf-file-name="Kolekcje.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="1173">
+              <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1571#1572#0" expanded="true" />
-                <element signature="e#1619#1620#0" expanded="true" />
-                <element signature="e#1653#1654#0" expanded="true" />
-                <element signature="e#1681#1682#0" expanded="true" />
-                <element signature="e#1807#1808#0" expanded="true" />
-                <element signature="e#1851#1852#0" expanded="true" />
-                <element signature="e#1871#1872#0" expanded="true" />
-                <element signature="e#1945#1946#0" expanded="true" />
-                <element signature="e#2068#2069#0" expanded="true" />
-                <element signature="e#2118#2119#0" expanded="true" />
-                <element signature="e#2141#2142#0" expanded="true" />
-                <element signature="e#2180#2181#0" expanded="true" />
-                <element signature="e#2421#2429#0" expanded="true" />
-                <element signature="e#2939#2947#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSetTreeSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PorownywanieElemTreeSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              <folding>
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K5_ArrayListLinkedList/ArrayListLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedListOpracje.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K7_HashCode/HashCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fabryka.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Projekt_1/Fabryka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-              <folding>
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -247,6 +162,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,7 +238,22 @@
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
-              <item name="Projekt_1" type="462c0819:PsiDirectoryNode" />
+              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K5_ArrayListLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayListLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
+              <item name="K6_LinkedListOpracje" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UdemyLearnJava2" type="b2602c69:ProjectViewProjectNode" />
@@ -330,13 +261,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kolekcje_ude" type="462c0819:PsiDirectoryNode" />
               <item name="Projekt_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Fabryka.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -469,19 +398,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <list>
       <item itemvalue="Application.Kolekcje" />
       <item itemvalue="Application.MetodyGeneryczne" />
@@ -492,8 +408,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Fabryka" />
-        <item itemvalue="Application.MetodyGeneryczne" />
         <item itemvalue="Application.Kolekcje" />
+        <item itemvalue="Application.MetodyGeneryczne" />
         <item itemvalue="Application.PorownywanieElemTreeSet" />
         <item itemvalue="Application.HashCode" />
       </list>
@@ -523,34 +439,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="2" width="1306" height="1447" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287841" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.20645645" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500394" side_tool="true" weight="0.26539925" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015504" side_tool="true" weight="0.26276276" />
       <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49844962" weight="0.26276276" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960598" visible="true" weight="0.26276276" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.20697674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8501805" visible="true" weight="0.20697674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="5" sideWeight="0.1498195" side_tool="true" weight="0.26693228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" sideWeight="0.1498195" side_tool="true" weight="0.26693228" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24940239" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32471484" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20645645" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -562,10 +477,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_T.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Adres.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Ojciec_T.java" />
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Corka_T.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Rodzina/Syn_T.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Znajomi/Wujek.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST/Rodzina/Dziecko.java" />
@@ -585,13 +496,11 @@
     <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Praca.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Sekretarka.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/ZlaKlasa.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Adres.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Podsumowanie_Udemy_Obiektowe/Firma/Pracownicy/Programista.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Oskar_1/Butelka.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Oskar_1/ButelkaFabryka.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Sekcja_TEST_sprawdznie/Start_2.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/AbstractList.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/FOLDER/tst.java" />
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K9_PorownywanieElemTreeSet/PorownywanieElemTreeSet.java" />
@@ -634,22 +543,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K8_HashSetTreeSet/HashSetTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -657,12 +554,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -673,13 +571,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K6_LinkedListOpracje/LinkedListOpracje.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="72" column="62" lean-forward="true" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="107" column="42" selection-start-line="107" selection-start-column="42" selection-end-line="107" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -692,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K2_TypyGeneryczne/TypyGeneryczne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#1618#1619#0" expanded="true" />
             <element signature="e#1674#1675#0" expanded="true" />
@@ -703,39 +640,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K4_MetodyGeneryczne/MetodyGeneryczne.java">
+    <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/K1_Kolekcje/Kolekcje.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="1173">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1571#1572#0" expanded="true" />
-            <element signature="e#1619#1620#0" expanded="true" />
-            <element signature="e#1653#1654#0" expanded="true" />
-            <element signature="e#1681#1682#0" expanded="true" />
-            <element signature="e#1807#1808#0" expanded="true" />
-            <element signature="e#1851#1852#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
-            <element signature="e#2068#2069#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2180#2181#0" expanded="true" />
-            <element signature="e#2421#2429#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/src/Kolekcje_ude/Projekt_1/Fabryka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="17">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
           <folding>
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

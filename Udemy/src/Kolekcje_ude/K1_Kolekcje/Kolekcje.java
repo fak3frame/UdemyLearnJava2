@@ -3,6 +3,7 @@ package Kolekcje_ude.K1_Kolekcje;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Map;
+import java.util.Set;
 
 public class    Kolekcje {
     public static void main(String[] args) {
@@ -30,6 +31,7 @@ public class    Kolekcje {
 
         */
 
+        Set x;
         Collection a;
         ArrayList b;
 
@@ -73,8 +75,8 @@ public class    Kolekcje {
 
         System.out.println("------6--------");
         int i = 0;
-        for(String x : mojaListaString){
-            System.out.println(i + " : " + x);
+        for(String x1 : mojaListaString){
+            System.out.println(i + " : " + x1);
             i++;
         }
 
